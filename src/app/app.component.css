@@ -1,0 +1,8 @@
+img{
+    background-image: url("https://raw.githubusercontent.com/ruveydayilmaz/ReCapProject/master/WebAPI/CarImages/default.jpg");
+    background-position:center;
+    display: block;
+    height: 300px;
+    width: 800px;
+    margin: 0 auto;
+}
