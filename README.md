@@ -1,4 +1,4 @@
-# CarRentalSystem
+# Car Rental System - Frontend (In Progress)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
